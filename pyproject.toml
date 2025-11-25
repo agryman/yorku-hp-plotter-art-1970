@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lissajou"
+version = "0.1.0"
+description = "Recreation of 1970 York University HP plotter art using Lissajous curves"
+readme = "README.md"
+requires-python = ">=3.12"
+license = {text = "MIT"}
+authors = [
+    {name = "Arthur Ryman", email = "arthur.ryman@gmail.com"}
+]
+keywords = ["lissajous", "plotter art", "generative art", "hp plotter"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Education",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Artistic Software",
+    "Topic :: Scientific/Engineering :: Mathematics",
+]
+
+dependencies = [
+    "numpy>=1.26.0",
+    "matplotlib>=3.8.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "jupyterlab>=4.0.0",
+    "ipykernel>=6.25.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/agryman/yorku-hp-plotter-art-1970"
+Repository = "https://github.com/agryman/yorku-hp-plotter-art-1970"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

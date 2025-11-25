@@ -1,4 +1,4 @@
-# York University HP Plotter Art 1970
+1# York University HP Plotter Art 1970
 *Arthur Ryman, last updated 2025-10-29*
 
 This repo contains art I created in 1970 at York University using an HP plotter located in
