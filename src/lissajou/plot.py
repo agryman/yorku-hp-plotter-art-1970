@@ -146,6 +146,11 @@ def angle_list(delta: int) -> list[int]:
     angles: list[int] = [(delta * i) % 360 for i in range(n)]
     return angles
 
+def figure_1():
+    plot_lissajou(1, 2, 1)
+
+def figure_2():
+    plot_lissajou(1, 2, 113)
 
 if __name__ == "__main__":
-    plot_lissajou(1, 2, 113)
+    figure_2()

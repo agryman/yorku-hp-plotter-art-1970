@@ -7,8 +7,5 @@ plugins:
   - mkdocstrings
 
 nav:
-  - Plotter Art Docs: index.md
-  - tutorials.md
-  - How-To Guides: how-to-guides.md
+  - index.md
   - reference.md
-  - explanation.md
