@@ -1,5 +1,5 @@
 # York University HP Plotter Art, 1970
-*Arthur Ryman, arthur.ryman@torontomu.ca, 2025-12-01*
+*Arthur Ryman, arthur.ryman@torontomu.ca, 2025-12-02*
 
 ## Background
 
@@ -9,14 +9,14 @@ I'm writing to you hoping that you are the Arthur Ryman who, as physics student 
 in the early 1970s, was involved with plotter art, publishing some of the artwork on the
 covers of York's Computer Centre Users' Newsletter. 
 
-He sent me the following scanned image:
+He sent me the following image:
 
 ![Newsletter Cover](scanned-images/1971-04-28-York-University-Computer-Services-Users-Newsletter-Cover.jpg)
 
 Yes, that was me. 
 While attending York University as a B.Sc. student, 1969-1972, 
 I created some mathematical artwork which ended up on the covers of several
-issues of the university's Computer Services User's Newsletter.
+issues of the university's Computer Services Users' Newsletter.
 
 Zbigniew was researching the history of computing at York U. during the 
 period 1965-1980. His museum was also planning an exhibit of some 
@@ -107,7 +107,7 @@ I filed them away.
 **Q:** Were there other people who you were collaborating with? 
 
 **A:** I didn't directly collaborate with anyone but I do remember getting some very positive
-feedback from one the grad students. He said that one of the plots looked like a double Klein bottle.
+feedback from one of the grad students. He said that one of the plots looked like a double Klein bottle.
 He brought in one of the math profs, Richard Brown I believe, who I think was a topologist.
 
 **Q:** Did you do any plotter art (or, in general, any computer art) after graduation from York?
