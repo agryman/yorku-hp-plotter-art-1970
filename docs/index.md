@@ -1,5 +1,5 @@
 # York University HP Plotter Art, 1970
-*Arthur Ryman, arthur.ryman@torontomu.ca, 2025-12-02*
+*Arthur Ryman, arthur.ryman@torontomu.ca, 2025-12-04*
 
 ## Background
 
